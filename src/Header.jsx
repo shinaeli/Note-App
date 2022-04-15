@@ -10,7 +10,7 @@ const Header = () => {
         <div className='nav-links'>
           <ul>
             <li>
-            <Link to='/create'>Create Note</Link>
+            <Link to='/create'>Write A Note</Link>
             </li>
           </ul>
         </div>
