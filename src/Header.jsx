@@ -5,7 +5,9 @@ const Header = () => {
     <div className='header'>
       <nav>
         <div className='logo'>
-          <h1 className='logo-head'>Note Maker</h1>
+          <Link className='logo-head' to='/'>
+            <h1>Note Maker</h1>
+          </Link>
         </div>
         <div className='nav-links'>
           <ul>
